@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+WhosFremch+👋;Full-Stack+%26+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+frnchy+👋;Full-Stack+%26+Systems+Developer)](https://git.io/typing-svg)
 
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=WhosFremch&color=FF4D4D&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=frnchy&color=FF4D4D&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,8 +16,8 @@
 ## 🔥 About Me
 
 ```python
-class WhosFremch:
-    name       = "WhosFremch"
+class frnchy:
+    name       = "frnchy"
     languages  = ["Python", "JavaScript", "C++", "HTML/CSS", "Lua"]
     tools      = ["Node.js", "Discord.py", "Supabase", "Roblox Studio"]
     interests  = ["Game Dev", "Bot Dev", "Full-Stack", "Systems Programming"]
@@ -65,17 +65,17 @@ class WhosFremch:
 <div align="center">
 
 <!-- GitHub Stats Card - radical theme is closest to red/dark -->
-<img src="https://github-readme-stats.vercel.app/api?username=WhosFremch&show_icons=true&theme=radical&hide_border=true&title_color=FF4D4D&icon_color=FF6666&text_color=ffffff&bg_color=0d1117&ring_color=FF4D4D&border_color=FF4D4D" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=frnchy&show_icons=true&theme=radical&hide_border=true&title_color=FF4D4D&icon_color=FF6666&text_color=ffffff&bg_color=0d1117&ring_color=FF4D4D&border_color=FF4D4D" height="180"/>
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhosFremch&layout=compact&theme=radical&hide_border=true&title_color=FF4D4D&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnchy&layout=compact&theme=radical&hide_border=true&title_color=FF4D4D&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=WhosFremch&theme=dark&hide_border=true&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF6666&sideLabels=FF6666&dates=ffffff&background=0d1117" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=frnchy&theme=dark&hide_border=true&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF6666&sideLabels=FF6666&dates=ffffff&background=0d1117" width="49%"/>
 
 </div>
 
@@ -85,7 +85,7 @@ class WhosFremch:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WhosFremch&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=frnchy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -95,7 +95,7 @@ class WhosFremch:
 
 <div align="center">
 
-[![WhosFremch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WhosFremch&bg_color=0d1117&color=FF6666&line=FF4D4D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![frnchy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnchy&bg_color=0d1117&color=FF6666&line=FF4D4D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -107,9 +107,9 @@ class WhosFremch:
 
 <!-- Snake animation - you need to set up the GitHub Action for this (see below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhosFremch/WhosFremch/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhosFremch/WhosFremch/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/WhosFremch/WhosFremch/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frnchy/frnchy/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frnchy/frnchy/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/frnchy/frnchy/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -130,7 +130,7 @@ class WhosFremch:
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-FF4D4D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6666?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhosFremch)
+[![GitHub](https://img.shields.io/badge/GitHub-FF6666?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frnchy)
 [![Roblox](https://img.shields.io/badge/Roblox-FF4D4D?style=for-the-badge&logo=roblox&logoColor=white)](https://roblox.com)
 
 </div>
@@ -156,7 +156,7 @@ class WhosFremch:
 ==================================================
 To get the snake animation working:
 
-1. In your profile repo (WhosFremch/WhosFremch), 
+1. In your profile repo (frnchy/frnchy), 
    create this file: .github/workflows/snake.yml
 
 2. Paste this in it:
