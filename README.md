@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+frnchy+👋;Full-Stack+%26+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=hey+i'm+frnchy+👋;dev+%7C+builder+%7C+breaker+of+things)](https://git.io/typing-svg)
 
-<!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=frnchy&color=FF4D4D&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -17,12 +14,11 @@
 
 ```python
 class frnchy:
-    name       = "frnchy"
     languages  = ["Python", "JavaScript", "C++", "HTML/CSS", "Lua"]
     tools      = ["Node.js", "Discord.py", "Supabase", "Roblox Studio"]
-    interests  = ["Game Dev", "Bot Dev", "Full-Stack", "Systems Programming"]
-    currently  = "Building cool stuff, breaking things, fixing things 🔨"
-    motto      = "If it compiles, ship it. If it doesn't, google it."
+    interests  = ["Game Dev", "Bot Dev", "Full-Stack", "Low-Level Stuff"]
+    currently  = "working on too many things at once"
+    motto      = "if it compiles, ship it"
 ```
 
 ---
@@ -31,7 +27,6 @@ class frnchy:
 
 <div align="center">
 
-<!-- Languages -->
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-FF4D4D?style=for-the-badge&logo=python&logoColor=white)
@@ -55,6 +50,7 @@ class frnchy:
 ![VS Code](https://img.shields.io/badge/VS_Code-FF6666?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-FF4D4D?style=for-the-badge&logo=roblox&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-FF6666?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -64,24 +60,21 @@ class frnchy:
 
 <div align="center">
 
-<!-- GitHub Stats Card - radical theme is closest to red/dark -->
-<img src="https://github-readme-stats.vercel.app/api?username=frnchy&show_icons=true&theme=radical&hide_border=true&title_color=FF4D4D&icon_color=FF6666&text_color=ffffff&bg_color=0d1117&ring_color=FF4D4D&border_color=FF4D4D" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=frnchy&show_icons=true&hide_border=true&title_color=FF4D4D&icon_color=FF6666&text_color=ffffff&bg_color=0d1117&ring_color=FF4D4D&count_private=true&include_all_commits=true" height="180"/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnchy&layout=compact&theme=radical&hide_border=true&title_color=FF4D4D&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnchy&layout=compact&hide_border=true&title_color=FF4D4D&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=frnchy&theme=dark&hide_border=true&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF6666&sideLabels=FF6666&dates=ffffff&background=0d1117" width="49%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -91,7 +84,7 @@ class frnchy:
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -105,7 +98,6 @@ class frnchy:
 
 <div align="center">
 
-<!-- Snake animation - you need to set up the GitHub Action for this (see below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frnchy/frnchy/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frnchy/frnchy/output/github-contribution-grid-snake.svg"/>
@@ -118,14 +110,14 @@ class frnchy:
 
 ## 💻 What I'm Working On
 
-- 🎮 Roblox game development & Lua scripting
-- 🤖 Discord bots with Python & discord.py
-- 🌐 Full-stack web projects with Node.js
-- ⚙️ C++ systems projects & tools
+- 🎮 Roblox game dev & Lua scripting
+- 🤖 Discord bots with Python
+- 🌐 Web stuff with Node.js
+- ⚙️ C++ projects & tools
 
 ---
 
-## 📬 Connect With Me
+## 📬 Find Me
 
 <div align="center">
 
@@ -139,56 +131,10 @@ class frnchy:
 
 <div align="center">
 
-<!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=footer" width="100%"/>
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"code is like humor. when you have to explain it, it's bad."*
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20too%20much%20caffeine-FF4D4D?style=flat-square)
+![](https://img.shields.io/badge/made_with-too_much_caffeine-FF4D4D?style=flat-square)
 
 </div>
-
----
-
-<!-- 
-==================================================
-🐍 SNAKE ANIMATION SETUP (one-time thing):
-==================================================
-To get the snake animation working:
-
-1. In your profile repo (frnchy/frnchy), 
-   create this file: .github/workflows/snake.yml
-
-2. Paste this in it:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Run the action once manually and you're good!
-==================================================
--->
