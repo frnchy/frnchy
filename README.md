@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=hey+i'm+frnchy+👋;dev+%7C+builder+%7C+breaker+of+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+frnchy+👋;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
@@ -17,8 +17,8 @@ class frnchy:
     languages  = ["Python", "JavaScript", "C++", "HTML/CSS", "Lua"]
     tools      = ["Node.js", "Discord.py", "Supabase", "Roblox Studio"]
     interests  = ["Game Dev", "Bot Dev", "Full-Stack", "Low-Level Stuff"]
-    currently  = "working on too many things at once"
-    motto      = "if it compiles, ship it"
+    currently  = "Working on too many things at once"
+    motto      = "If it compiles, ship it"
 ```
 
 ---
@@ -133,7 +133,7 @@ class frnchy:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=footer" width="100%"/>
 
-*"code is like humor. when you have to explain it, it's bad."*
+*"Code is like humor. When you have to explain it, it's bad."*
 
 ![](https://img.shields.io/badge/made_with-too_much_caffeine-FF4D4D?style=flat-square)
 
